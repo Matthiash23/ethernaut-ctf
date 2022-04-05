@@ -1,0 +1,133 @@
+.exit
+exit
+await ethers.provider.getBalance(target.address)
+await ethers.provider.getBalance(attacker.address)
+await target.balanceOf(attacker.address)
+const target = await Target.attach("0xA51c1fc2f0D1a1b8494Ed1FE312d7C3a78Ed91C0")
+  const Target = await hre.ethers.getContractFactory("Reentrance");
+await attacker.execute()
+await ethers.provider.getBalance(attacker.address)
+signer.sendTransaction({to: attacker.address, value: ethers.utils.parseEther("0.0001")})
+signer.sendTransaction(to: attacker.address, value: ethers.utils.parseEther("0.0001"))
+signer.sendTransaction(to: attacker.address, value: ethers.utils.parseEther("0.0001")
+}
+    amount: ethers.utils.parseEther("0.01")
+    to: attacker.address,
+let tx = {
+await signer.sendTransaction(tx)
+let signer = await ethers.getSigner()
+}
+    amount: ethers.utils.parseEther("0.0001")
+    to: attacker.address,
+let tx = {
+const attacker = await Attacker.attach("0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82")
+  const Attacker = await hre.ethers.getContractFactory("Exo10");
+await target.balanceOf(attacker.address)
+await attacker.execute()
+attacker.execute()
+await target.balanceOf(attacker.address)
+await target.donate(attacker.address, {value: 1000000})
+await target.balanceOf(attacker.address)
+const attacker = await Attacker.attach("0x610178dA211FEF7D417bC0e6FeD39F05609AD788")
+  const Attacker = await hre.ethers.getContractFactory("Exo10");
+const target = await Target.attach("0x8A791620dd6260079BF849Dc5567aDC3F2FdC318")
+  const Target = await hre.ethers.getContractFactory("Reentrance");
+const target = await Target.attach("0x5FC8d32690cc91D4c39d9d3abcBD16989F875707")
+  const Target = await hre.ethers.getContractFactory("Reentrance");
+await target.balanceOf(attacker.address)
+await attacker.execute()
+await target.balanceOf(attacker.address)
+await target.donate(attacker.address, {value: 100000})
+await target.balanceOf(attacker.address)
+const attacker = await Attacker.attach("0x0165878A594ca255338adfa4d48449f69242Eb8F")
+  const Attacker = await hre.ethers.getContractFactory("Exo10");
+const target = await Target.attach("0x5FC8d32690cc91D4c39d9d3abcBD16989F875707")
+  const Target = await hre.ethers.getContractFactory("Reentrance");
+await target.balanceOf(attacker.address)
+await target.donate(attacker.address, {value: 100000})
+await target.donate(attacker.address)
+await target.donate(attacker.contract)
+await target.donate(attacker.contract, {value: 1000000})
+const target = await Target.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3")
+  const Target = await hre.ethers.getContractFactory("Reentrance");
+await attacker.execute()
+const attacker = await Attacker.attach("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+  const Attacker = await hre.ethers.getContractFactory("Exo10");
+  const Target = await hre.ethers.getContractFactory("Reentrance");
+await target.donate({to: "0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266", value:ethers.utils.parseEther("0.001")})
+await target.balanceOf("0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266")
+await target.balanceOf(attacker.address)
+await attacker.execute()
+await ethers.provider.getBalance(attacker.address)
+await signer.sendTransaction(tx)
+let signer = await ethers.getSigner()
+await ethers.getSigner()
+await ethers.provider.sendTransaction(tx)
+tx
+}
+    value: ethers.utils.parseEther(amountInEther)
+    // Convert currency unit from ether to wei
+    to: receiverAddress,
+let tx = {
+// Create a transaction object
+let amountInEther = '0.01'
+let receiverAddress = "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+await ethers.provider.getBalance(attacker.address)
+const attacker = await Attacker.attach("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+  const Attacker = await hre.ethers.getContractFactory("Exo10");
+await target.balanceOf("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+const target = await Target.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3")
+  const Target = await hre.ethers.getContractFactory("Reentrance");
+await ethers.provider.getBalance("0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266")
+await ethers.provider.getBalance(attacker.address)
+await ethers.provider.getBalance(target.address)
+ethers.provider.getBalance(target.address)
+ethers.getBalance(target.address)
+await target.balanceOf("0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266")
+await target.balanceOf("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+await attacker.execute()
+const attacker = await Attacker.attach("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+  const Attacker = await hre.ethers.getContractFactory("Exo10");
+await target.balanceOf("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+target.balanceOf("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+const target = await Target.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3")
+  const Target = await hre.ethers.getContractFactory("Reentrance");
+ethers.provider
+target.balanceOf("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+target.balanceOf("0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266")
+target.balanceOf(0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266)
+target.balanceOf("0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266")
+const target = await Target.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3")
+  const Target = await hre.ethers.getContractFactory("Reentrance");
+.exit
+const target = await Target.attach("0x5fbdb2315678afecb367f032d93f642f64180aa3")
+const target = await Target.attach("  const Target = await hre.ethers.getContractFactory("Reentrance");
+  const Target = await hre.ethers.getContractFactory("Reentrance");
+const Tar = await new ethers.Contract("0x5fbdb2315678afecb367f032d93f642f64180aa3")
+const Targ = await new ethers.Contract(0x5fbdb2315678afecb367f032d93f642f64180aa3)
+const Target = await new ethers.Contract(0x5fbdb2315678afecb367f032d93f642f64180aa3)
+const T = await new ethers.Contract(0x5fbdb2315678afecb367f032d93f642f64180aa3)
+const T = await ethers.Contract(0x5fbdb2315678afecb367f032d93f642f64180aa3)
+  const Target = await hre.ethers.getContractFactory("Reentrance");
+attacker
+ethers.provider.getSigner()
+ethers.provider
+ethers.Provider
+ethers.Signer.isSigner()
+ethers.Signer
+ethers.utils.getAddress()
+ethers.getAddress()
+ethers
+ethers.address
+await target.balanceOf(a.address)
+a.address
+await a.deployed()
+const a = await A.deploy(target.address)
+const A = await ethers.getContractFactory("Exo10")
+target.address
+await target.deployed()
+const target = await t.deploy()
+const t = await ethers.getContractFactory("Reentrance")
+ethers.getContractFactory("Reentrance")
+attacker
+.help
